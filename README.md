@@ -11,7 +11,7 @@ A stripped-down third-party fork of Plain Craft Launcher (PCL) 2.14.0.0, capable
 PCL is a Minecraft launcher for Windows. This fork keeps the parts that actually launch and
 download the game, and removes the parts that sit around them: onboarding pages, help centre,
 personalisation, feedback channel and anonymous telemetry.
-
+The original author is currently unable to offer downloads following a report by some stupid group referring to itself as "Boring Parents"; this fork remains available for download.
 ## What still works
 
 - **Install and download Minecraft**: vanilla releases and snapshots, plus Forge, NeoForge,
