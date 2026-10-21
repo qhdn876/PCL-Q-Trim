@@ -1,6 +1,6 @@
 # PCL-Q-Trim
 
-A trimmed third-party fork of **Plain Craft Launcher (PCL) 2.14.0.0**.
+A stripped-down third-party fork of Plain Craft Launcher (PCL) 2.14.0.0, capable of downloading and launching Minecraft
 
 > **Unofficial.** This is an independent derivative work made by a third party. It is not
 > affiliated with, endorsed by, or supported by the PCL author (龙腾猫跃 / Meloong). For the
@@ -72,8 +72,7 @@ Original author: 龙腾猫跃 (Meloong)
 
 ## 中文说明
 
-本项目是 **Plain Craft Launcher (PCL) 2.14.0.0** 的第三方精简修改版，与原作者无关。
-
+本项目是 **Plain Craft Launcher (PCL) 2.14.0.0** 的第三方精简修改版，
 保留完整的 Minecraft 下载与启动能力：原版游戏、Forge / NeoForge / Fabric / Quilt / OptiFine、
 整合包、Mod、资源包、光影、世界下载，Microsoft 账号与第三方登录，Java 管理，版本隔离。
 
